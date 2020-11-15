@@ -10,4 +10,4 @@ def find_max_value(array)
   max_value 
 end
 
-p find_max_value([3,5,7,2,9,1,27,6])
+puts find_max_value([3,5,7,2,9,1,27,6])
